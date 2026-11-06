@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="500" viewBox="0 0 1440 500" role="img" aria-labelledby="title desc">
+<title id="title">Anima Das — AI Automation Engineer and Systems Architect</title>
+<desc id="desc">A futuristic midnight-blue isometric automation network with glowing cyan and violet nodes.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080D1B"/><stop offset="0.55" stop-color="#111B35"/><stop offset="1" stop-color="#17132E"/></linearGradient>
+  <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8CF5FF"/><stop offset="1" stop-color="#1BBAD8"/></linearGradient>
+  <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#C3A7FF"/><stop offset="1" stop-color="#7658E8"/></linearGradient>
+  <linearGradient id="mint" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#9BF6D3"/><stop offset="1" stop-color="#28B889"/></linearGradient>
+  <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#1A2948" stop-opacity=".96"/><stop offset="1" stop-color="#0C1428" stop-opacity=".98"/></linearGradient>
+  <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.2" fill="#7896C8" opacity=".22"/></pattern>
+  <pattern id="grid" width="72" height="42" patternUnits="userSpaceOnUse"><path d="M36 0 72 21 36 42 0 21Z" fill="none" stroke="#6C83B4" stroke-opacity=".12" stroke-width="1"/></pattern>
+  <filter id="glow" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="soft" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="22"/></filter>
+</defs>
+<rect width="1440" height="500" rx="28" fill="url(#bg)"/>
+<rect width="1440" height="500" rx="28" fill="url(#dots)"/>
+<rect width="1440" height="500" rx="28" fill="url(#grid)"/>
+<ellipse cx="1120" cy="250" rx="300" ry="190" fill="#7357E8" opacity=".12" filter="url(#soft)"/>
+<ellipse cx="1010" cy="330" rx="260" ry="120" fill="#25C5D9" opacity=".10" filter="url(#soft)"/>
+<path d="M0 410 C240 340 410 470 670 390 S1110 310 1440 390" fill="none" stroke="#5B78B7" stroke-opacity=".12" stroke-width="1.5"/>
+<!-- Left content -->
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+  <rect x="76" y="68" width="230" height="34" rx="17" fill="#10283A" stroke="#3DD9E9" stroke-opacity=".55"/>
+  <circle cx="96" cy="85" r="5" fill="#62E6C0"/>
+  <text x="112" y="91" fill="#A8F2F2" font-size="13" font-weight="700" letter-spacing="2.2">SYSTEMS ONLINE · SYLHET, BD</text>
+  <text x="76" y="190" fill="#F4F7FF" font-size="68" font-weight="800" letter-spacing="-2.5">ANIMA DAS</text>
+  <text x="80" y="239" fill="#7FE9F5" font-size="24" font-weight="700" letter-spacing="2.6">AI AUTOMATION ENGINEER</text>
+  <text x="80" y="276" fill="#C9C8F8" font-size="20" font-weight="600" letter-spacing="1.4">&amp; SYSTEMS ARCHITECT</text>
+  <path d="M80 309 H500" stroke="#425B87" stroke-width="1.5"/>
+  <text x="80" y="346" fill="#C8D3E8" font-size="18">Reliable AI-powered business systems.</text>
+  <text x="80" y="375" fill="#C8D3E8" font-size="18">Validated data · Human approval · Recoverable execution.</text>
+  <g transform="translate(80 414)">
+    <rect width="104" height="28" rx="14" fill="#132A45" stroke="#328DA8"/>
+    <text x="52" y="19" fill="#9DECF4" text-anchor="middle" font-size="12" font-weight="700">n8n</text>
+    <rect x="114" width="112" height="28" rx="14" fill="#211E43" stroke="#7966C6"/>
+    <text x="170" y="19" fill="#D3C8FF" text-anchor="middle" font-size="12" font-weight="700">AI AGENTS</text>
+    <rect x="236" width="118" height="28" rx="14" fill="#12342F" stroke="#34B98D"/>
+    <text x="295" y="19" fill="#B1F4DB" text-anchor="middle" font-size="12" font-weight="700">API SYSTEMS</text>
+  </g>
+</g>
+<!-- Right side isometric platform -->
+<g transform="translate(730 38)">
+  <path d="M40 325 345 150 650 325 345 500Z" fill="#0D162B" stroke="#35527E" stroke-opacity=".7" stroke-width="2"/>
+  <path d="M40 325 345 150 650 325 345 500Z" fill="url(#grid)" opacity=".9"/>
+  <path d="M102 324 345 184 589 324 345 465Z" fill="none" stroke="#41618C" stroke-opacity=".55" stroke-width="1.4" stroke-dasharray="5 8"/>
+  <!-- connection paths -->
+  <g fill="none" stroke-linecap="round" stroke-width="4">
+    <path d="M150 284 278 210 398 278 512 213" stroke="#51DBEA" opacity=".85"/>
+    <path d="M278 210 278 112 398 45" stroke="#A68BFF" opacity=".9"/>
+    <path d="M398 278 398 362 518 430" stroke="#63E8B9" opacity=".8"/>
+    <path d="M150 284 150 190 230 145" stroke="#A68BFF" opacity=".65"/>
+  </g>
+  <!-- cuboid function -->
+  <g stroke-width="1.7">
+    <g transform="translate(95 210)">
+      <path d="M0 38 56 6 112 38 56 70Z" fill="#173D55" stroke="#43C9E0"/><path d="M0 38 56 70 56 128 0 96Z" fill="#102B41" stroke="#43C9E0"/><path d="M56 70 112 38 112 96 56 128Z" fill="#0B2034" stroke="#43C9E0"/><path d="M28 48 56 32 84 48 56 64Z" fill="#7DECF7" opacity=".22"/>
+      <circle cx="56" cy="46" r="7" fill="#8AF5FF" filter="url(#glow)" stroke="none"/>
+    </g>
+    <g transform="translate(225 126)">
+      <path d="M0 38 56 6 112 38 56 70Z" fill="#342B65" stroke="#A58BFF"/><path d="M0 38 56 70 56 128 0 96Z" fill="#211D49" stroke="#A58BFF"/><path d="M56 70 112 38 112 96 56 128Z" fill="#17163A" stroke="#A58BFF"/><path d="M28 48 56 32 84 48 56 64Z" fill="#C3AEFF" opacity=".25"/>
+      <circle cx="56" cy="46" r="7" fill="#C5AFFF" filter="url(#glow)" stroke="none"/>
+    </g>
+    <g transform="translate(345 194)">
+      <path d="M0 38 56 6 112 38 56 70Z" fill="#174D46" stroke="#54E0B0"/><path d="M0 38 56 70 56 128 0 96Z" fill="#10352F" stroke="#54E0B0"/><path d="M56 70 112 38 112 96 56 128Z" fill="#0B2926" stroke="#54E0B0"/><path d="M28 48 56 32 84 48 56 64Z" fill="#B6FFE0" opacity=".22"/>
+      <circle cx="56" cy="46" r="7" fill="#9DFFD8" filter="url(#glow)" stroke="none"/>
+    </g>
+    <g transform="translate(465 126)">
+      <path d="M0 38 56 6 112 38 56 70Z" fill="#173D55" stroke="#43C9E0"/><path d="M0 38 56 70 56 128 0 96Z" fill="#102B41" stroke="#43C9E0"/><path d="M56 70 112 38 112 96 56 128Z" fill="#0B2034" stroke="#43C9E0"/><circle cx="56" cy="46" r="7" fill="#8AF5FF" filter="url(#glow)" stroke="none"/>
+    </g>
+  </g>
+  <!-- labels -->
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" text-anchor="middle">
+    <text x="151" y="355" fill="#9DECF4">INPUT</text>
+    <text x="281" y="271" fill="#D0C3FF">AI / LLM</text>
+    <text x="401" y="339" fill="#A6F4D5">VALIDATE</text>
+    <text x="521" y="271" fill="#9DECF4">EXECUTE</text>
+  </g>
+  <!-- floating chips -->
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">
+    <rect x="375" y="12" width="143" height="30" rx="15" fill="#1D1940" stroke="#7966C6"/><text x="446" y="31" text-anchor="middle" fill="#D9CCFF">HUMAN IN THE LOOP</text>
+    <rect x="472" y="405" width="150" height="30" rx="15" fill="#10352F" stroke="#34B98D"/><text x="547" y="424" text-anchor="middle" fill="#B2F4DB">AUDIT + RECOVERY</text>
+  </g>
+</g>
+<rect x="1" y="1" width="1438" height="498" rx="27" fill="none" stroke="#6582B4" stroke-opacity=".25" stroke-width="2"/>
+</svg>
