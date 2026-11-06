@@ -1,214 +1,204 @@
 <div align="center">
 
-<img src="./hero-isometric.svg" width="100%" alt="Anima Das — AI Automation Engineer and Systems Architect" />
+# ANIMA DAS
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=69E3F1&center=true&vCenter=true&width=850&lines=Engineering+reliable+AI-powered+business+systems;From+evidence-grounded+research+to+human-approved+execution;Building+stateful+n8n+workflows%2C+AI+agents+and+API+integrations)](https://git.io/typing-svg)
+### AI Automation Engineer & Systems Architect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anima-das-automation)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-121B32?style=for-the-badge&logo=googlechrome&logoColor=69E3F1)](https://anima-das-website.vercel.app)
-[![Email](https://img.shields.io/badge/Email-Contact-1C2741?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:anima.das2k0@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Anima--Das-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anima-Das)
+<sub>n8n &nbsp;·&nbsp; AI Agents &nbsp;·&nbsp; Workflow Engineering &nbsp;·&nbsp; API Integration &nbsp;·&nbsp; CRM Automation</sub>
 
-<sub>📍 Sylhet, Bangladesh &nbsp;·&nbsp; 🌍 Open to full-time remote roles &nbsp;·&nbsp; Building since 2022</sub>
+<br>
+
+![AI Automation](https://img.shields.io/badge/AI_AUTOMATION-8957E5?style=for-the-badge)
+![n8n](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_AGENTS-8957E5?style=for-the-badge)
+![Workflow Engineering](https://img.shields.io/badge/WORKFLOW_ENGINEERING-1F6FEB?style=for-the-badge)
+![API Integration](https://img.shields.io/badge/API_INTEGRATION-1F6FEB?style=for-the-badge)
+
+<br>
+
+I design and build end-to-end business automation: AI-assisted workflows, API and CRM integrations, and human approval gates, engineered around validation, data integrity, and maintainability.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anima_Das-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/anima-das-automation)
+[![Email](https://img.shields.io/badge/Email-fivver033%40gmail.com-30363D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fivver033@gmail.com)
+![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-Full--Time_Roles-2DA44E?style=for-the-badge)
+
+<br>
+
+*Automation that validates before it acts, and recovers when it fails.*
 
 </div>
 
 ---
 
-## ◈ SYSTEM PROFILE
+## 🧭 About Me
 
-I am an **AI Automation Engineer & Systems Architect** who turns repetitive manual work into reliable, AI-powered business systems. I have designed, built, tested and delivered **100+ automation workflows** for multiple clients using **n8n, Make.com and Zapier**.
+I design autonomous, end-to-end business automation, primarily on **n8n**, with **Make.com** and **Zapier** where they fit. The systems I build cover lead generation, qualification, outreach, customer support, and internal operations. They connect AI/LLM services, forms, email, spreadsheets, calendars, and CRM pipelines through REST APIs and webhooks.
 
-My work spans B2B lead research and outreach, customer support and voice agents, CRM operations, and AI-assisted business processes. I connect LLMs, APIs, webhooks, messaging, email, spreadsheets and databases — with **data validation, explicit state, idempotency, human approval and recoverable failure paths** built into the system.
+AI in my workflows (**OpenAI GPT-4**, **Google Gemini**) handles evaluation and decision support inside a defined structure. Reliability is a design requirement: validation, normalization, duplicate handling, fallback logic, and structured error paths keep incomplete or invalid data from silently continuing. Where an action is consequential, such as outbound communication, I place a human-review checkpoint in front of it.
 
-> **Engineering principle:** Validate before action. Keep consequential decisions reviewable. Make failures visible, recoverable and safe to retry.
+Based in Sylhet, Bangladesh. Working as an independent consultant since 2022.
 
-## ◈ ENGINEERING PROOF POINTS
+---
 
-<img src="./engineering-proof.svg" width="100%" alt="Resume-backed delivery highlights: 100+ workflows, 66-node pipeline, 16 lead lifecycle states, 54 legal transitions" />
-
-<sub>These figures describe delivered systems and documented engineering work. They are not live GitHub activity counters.</sub>
-
-## ◈ SELECTED AUTOMATION SYSTEMS
+## 🎯 What I Specialize In
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 01 · B2B Lead Research & Cold Outreach
-
-<sub><b>66-NODE N8N PIPELINE</b></sub>
-
-Google Sheets intake and email checks flow into multi-source company research and Gemini analysis. Evidence-based drafts move through Telegram human approval using single-use, expiring tokens before a guarded Gmail send. Includes one controlled follow-up plus reply and opt-out handling.
-
-`n8n` `Google Gemini` `Telegram HITL` `Gmail API` `Google Sheets`
-
-</td>
-<td width="50%" valign="top">
-
-### 02 · Outreach Intelligence & Campaign Orchestrator
-
-<sub><b>40-NODE STATEFUL SYSTEM</b></sub>
-
-PostgreSQL-backed lifecycle management across **16 lead states and 54 legal transitions**. Evidence-aware drafting, claim verification, human review, layered send gates, idempotency and audit events protect each action. Uncertain outcomes are held for reconciliation — never blindly resent.
-
-`n8n` `PostgreSQL` `JavaScript` `REST APIs`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 03 · AI Customer Support & Voice Agent
-
-<sub><b>40-NODE WEBHOOK BACKEND</b></sub>
-
-Normalizes voice-agent payloads and routes five support actions: FAQ, order status, booking, ticketing and human escalation. HMAC-SHA256 checks, PostgreSQL idempotency and fingerprinting prevent duplicate or unverified actions.
-
-`n8n` `PostgreSQL` `Webhooks` `HMAC-SHA256`
-
-</td>
-<td width="50%" valign="top">
-
-### 04 · Social Media & Brand Reputation Defense
-
-<sub><b>36-NODE EVENT-DRIVEN ENGINE</b></sub>
-
-Four webhook entry points with signature validation, replay protection and tenant-scoped policies. Deterministic fallback, kill switch, idempotent actions, durable human-review tasks and PostgreSQL audit records keep execution controlled and traceable.
-
-`n8n` `PostgreSQL` `Event Processing` `Policy Controls`
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🤖 AI Automation</b><br>
+      AI-assisted evaluation, qualification, and decision support built into controlled workflows.<br>
+      <code>OpenAI GPT-4</code> <code>Google Gemini</code>
+    </td>
+    <td width="50%" valign="top">
+      <b>⚙️ Workflow Engineering</b><br>
+      Multi-branch, stateful workflows with validation, fallbacks, and maintainable structure.<br>
+      <code>n8n</code> <code>Make.com</code> <code>Zapier</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🧠 AI Agents</b><br>
+      Autonomous agent workflows that research, evaluate, and act within defined boundaries.<br>
+      <code>Autonomous Agents</code> <code>Prompt Engineering</code>
+    </td>
+    <td width="50%" valign="top">
+      <b>🔗 API & Webhook Integration</b><br>
+      Connecting AI services, email, spreadsheets, calendars, and internal systems.<br>
+      <code>REST APIs</code> <code>Webhooks</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🏢 CRM Automation</b><br>
+      Lead capture, qualification, and follow-up automated across CRM and business systems.<br>
+      <code>HubSpot</code> <code>GoHighLevel</code>
+    </td>
+    <td width="50%" valign="top">
+      <b>👥 Human-in-the-Loop</b><br>
+      Approval gates and review checkpoints placed where human judgment matters.<br>
+      <code>Approval Gates</code> <code>Telegram</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🧩 Business Process Automation</b><br>
+      Lead generation, customer support, outreach, and operational workflows.<br>
+      <code>Lead Qualification</code> <code>Outreach</code>
+    </td>
+    <td width="50%" valign="top">
+      <b>🛡️ Reliability & Data Integrity</b><br>
+      Validation, duplicate handling, audit logging, and controlled retries.<br>
+      <code>Error Paths</code> <code>Audit Logging</code>
+    </td>
+  </tr>
 </table>
 
-<details>
-<summary><b>More systems built</b> — click to expand</summary>
+---
 
-- Generative AI video pipeline using VEO 3, publishing to TikTok, Instagram and YouTube.
-- Facebook Messenger support and lead-generation bot with OpenAI and human handoff.
-- Local lead intelligence using Serper Maps and Ollama.
+## ⚙️ Automation Capabilities
 
-</details>
-
-## ◈ HOW I ENGINEER RELIABLE AUTOMATION
-
-<img src="./automation-architecture.svg" width="100%" alt="Isometric architecture: inputs, orchestration, AI reasoning, validation and state, guarded actions, human approval, audit and recovery" />
-
-| Engineering layer | Implementation focus |
+| Area | What I build |
 |:--|:--|
-| **AI & agent engineering** | Prompt design, schema-validated JSON, evidence-grounded generation, claim verification, confidence scoring and bounded agent execution |
-| **Process orchestration** | Multi-branch workflows, stateful routing, API/webhook integrations, voice/chat intent routing and human handoff |
-| **Data integrity** | Validation, normalization, idempotency keys, explicit lifecycle states and duplicate prevention |
-| **Security controls** | HMAC-SHA256 verification, replay protection, tenant-scoped policies, approval gates and credential-free exports |
-| **Recoverability** | Deterministic fallbacks, controlled retries, explicit error paths, audit logs and reconciliation |
+| **Orchestration** | `Multi-branch workflows` `Stateful workflow management` `API orchestration` |
+| **Data handling** | `Validation` `Normalization` `JSON transformation` `Duplicate handling` |
+| **AI-assisted logic** | `Prospect and lead evaluation` `Prompt engineering` `LLM-driven decision support` |
+| **Failure handling** | `Fallback logic` `Structured error paths` `Controlled retries` |
+| **Oversight** | `Human-review checkpoints` `Approval gates` `Audit logging` `Testing` |
+| **Business systems** | `CRM integration` `Email verification` `Follow-up automation` |
 
-## ◈ TECHNOLOGY CONSTELLATION
+---
 
-<div align="center">
+## 🧱 Engineering Principles
 
-**AI · LLM · AGENTS**
+| | Principle | In practice |
+|:--:|:--|:--|
+| **01** | **Architecture Before Automation** | Analyze the existing process for delays, repetitive work, missing data, and integration bottlenecks before building. |
+| **02** | **Validate Before Action** | Validation, normalization, and duplicate handling gate data before it moves downstream. |
+| **03** | **Controlled AI Execution** | AI performs evaluation inside defined workflow stages, with consequential actions kept behind checkpoints. |
+| **04** | **Human Oversight Where Appropriate** | Human-review checkpoints and approval gates for decisions that warrant them. |
+| **05** | **Explicit Failure Handling** | Fallback logic and structured error paths so invalid or incomplete data never silently continues. |
+| **06** | **Data Integrity and State Awareness** | Structured data layers and workflow state management across multi-step systems. |
+| **07** | **Recovery and Observability** | Audit logging, controlled retries, and testing to make failures visible and recoverable. |
+| **08** | **Maintainability Over Complexity** | Structured, dependable systems that others can read, extend, and operate. |
 
-![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-101010?style=for-the-badge&logo=ollama&logoColor=white)
-![VEO 3](https://img.shields.io/badge/VEO_3-AI_Video-6D5CE8?style=for-the-badge)
+---
 
-**AUTOMATION · ORCHESTRATION**
+## 🔍 How I Approach Automation
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge)
-![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
+I begin with questions rather than tools:
 
-**DEVELOPMENT · DATA · INTEGRATION**
+1. **Process:** Where does time go, and which steps are repetitive or delayed?
+2. **Data:** What data is required, and what happens when it is missing or malformed?
+3. **Decisions:** Which decisions can AI support, and which need a person to confirm?
+4. **Integrations:** Which systems must exchange data, and through which APIs or webhooks?
+5. **Failure:** What should the workflow do when a step fails, repeats, or returns something unexpected?
 
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![JSON](https://img.shields.io/badge/JSON-30363D?style=for-the-badge&logo=json&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-1F6FEB?style=for-the-badge)
-![Webhooks](https://img.shields.io/badge/Webhooks-0F766E?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+The answers shape the workflow structure first. Tools are chosen afterward, and the build is tested before it is trusted.
 
-**BUSINESS SYSTEMS · CONNECTORS**
+---
 
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
-![GoHighLevel](https://img.shields.io/badge/GoHighLevel-188BF6?style=for-the-badge)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail_API-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
-![ZeroBounce](https://img.shields.io/badge/ZeroBounce_API-243247?style=for-the-badge)
-![Facebook Messenger](https://img.shields.io/badge/Facebook_Messenger-0866FF?style=for-the-badge&logo=messenger&logoColor=white)
-![Serper](https://img.shields.io/badge/Serper_Maps-0D9488?style=for-the-badge)
+## 🧰 Technology Stack
 
-</div>
+| Category | Technologies |
+|:--|:--|
+| **AI & LLM** | ![OpenAI GPT-4](https://img.shields.io/badge/OpenAI_GPT--4-412991?style=flat-square) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8957E5?style=flat-square) |
+| **Automation Platforms** | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square) ![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white) |
+| **APIs & Integrations** | ![REST APIs](https://img.shields.io/badge/REST_APIs-1F6FEB?style=flat-square) ![Webhooks](https://img.shields.io/badge/Webhooks-1F6FEB?style=flat-square) ![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white) ![Gmail API](https://img.shields.io/badge/Gmail_API-EA4335?style=flat-square&logo=gmail&logoColor=white) ![ZeroBounce API](https://img.shields.io/badge/ZeroBounce_API-30363D?style=flat-square) |
+| **Development & Data** | ![JavaScript](https://img.shields.io/badge/JavaScript_(ES6)-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-30363D?style=flat-square&logo=json&logoColor=white) ![Regex](https://img.shields.io/badge/Regex-30363D?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-30363D?style=flat-square) ![NoSQL](https://img.shields.io/badge/NoSQL-30363D?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Replit](https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white) |
+| **CRM & Business Systems** | ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white) ![GoHighLevel](https://img.shields.io/badge/GoHighLevel-188BF6?style=flat-square) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white) |
 
-## ◈ LIVE GITHUB INTELLIGENCE
+---
 
-The cards below are generated from GitHub data by **lowlighter/metrics**. They become live after the optional Metrics workflow is configured. Until then, the included artwork is a setup placeholder.
+## 💼 Professional Experience
 
-<table>
-<tr>
-<td width="50%" valign="top"><img src="./metrics-overview.svg" width="100%" alt="GitHub profile overview metrics" /></td>
-<td width="50%" valign="top"><img src="./metrics-languages.svg" width="100%" alt="Most used programming languages" /></td>
-</tr>
-<tr>
-<td colspan="2" valign="top"><img src="./metrics-isocalendar.svg" width="100%" alt="Isometric full-year contribution calendar" /></td>
-</tr>
-</table>
+**AI & No-Code Automation Specialist / Systems Architect**
+<br>*Self-Employed / Remote Client Consultant &nbsp;·&nbsp; 2022 – Present*
 
-## ◈ 3D CONTRIBUTION UNIVERSE
+- Designed and implemented end-to-end AI automation workflows in n8n, Make.com, and Zapier, using OpenAI and Google Gemini for lead qualification, customer support, outreach, and business operations.
+- Built multi-branch, stateful workflow systems with validation, fallback logic, duplicate handling, controlled retries, and structured error paths.
+- Developed B2B lead research and outreach workflows combining AI-based prospect evaluation, email verification, human-in-the-loop approval, and integrations with Gmail, Telegram, and Google Sheets.
+- Integrated CRM and business systems such as HubSpot and GoHighLevel through REST APIs, webhooks, and structured data layers to automate lead capture, qualification, and follow-up.
+- Applied JavaScript, JSON transformation, regex, SQL/NoSQL, and workflow state management to build dependable, scalable automation systems.
 
-This is a 3D isometric preview. After you add and run the optional 3D Contribution Calendar workflow, it is replaced with your real GitHub contribution calendar.
+---
 
-<p align="center">
-  <img src="./profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution calendar" />
-</p>
+## 🔭 Current Focus
 
-<p align="center"><b>Contribution Snake · animated activity trail</b></p>
+Current consulting work centers on AI-powered business automation:
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./github-snake.svg" />
-    <img src="./github-snake.svg" width="100%" alt="GitHub contribution snake animation" />
-  </picture>
-</p>
+- Advanced n8n workflows with multi-branch logic and persistent workflow state
+- Autonomous AI agents with human approval checkpoints
+- API-driven integrations across CRM, email, messaging, and spreadsheet systems
+- Workflow reliability: validation, error handling, retries, and audit logging
 
-## ◈ PROFESSIONAL JOURNEY
+---
 
-**AI Automation Engineer & Systems Architect** · *Independent Remote Consultant*  
-**2022 — Present**
+## 🤝 Open to Opportunities
 
-- Designed, built, tested and delivered 100+ workflows for multiple clients across n8n, Make.com and Zapier.
-- Automated lead research, outreach, customer support and operations, placing human approval around consequential decisions.
-- Engineered multi-branch, stateful systems with JavaScript, JSON transformation, PostgreSQL-backed state and explicit error paths; larger workflows span 36–66 nodes.
-- Integrated AI providers, Gmail, Telegram, Google Sheets, ZeroBounce, HubSpot, GoHighLevel and PostgreSQL through APIs and webhooks.
-- Delivered credential-free exports with setup documentation, placeholders, test scenarios and maintenance notes.
+![Open to Work](https://img.shields.io/badge/STATUS-Seeking_Full--Time_Roles-2DA44E?style=for-the-badge)
 
-**Education**  
-B.Sc. in Computer Science & Engineering · Shahjalal University of Science and Technology (SUST)
+I am actively seeking full-time roles where automation is treated as engineering. Relevant areas:
 
-## ◈ CURRENT FOCUS
+`AI Automation` `n8n Automation` `Workflow Engineering` `AI Agents` `Business Process Automation` `API Integration` `Automation Engineering`
 
-- Advanced n8n architecture, persistent state and multi-agent workflows.
-- Evidence-grounded AI outputs, confidence checks and human-in-the-loop execution.
-- Secure API orchestration with replay protection, idempotency and auditability.
-- Recoverable automation systems with explicit failure paths and safe reconciliation.
+---
 
-## ◈ LET'S CONNECT
+## 🎓 Education
 
-I am open to **full-time remote opportunities** in AI automation, workflow engineering, AI agents, business process automation and API integration.
+**B.Sc. in Computer Science & Engineering**
+<br>Shahjalal University of Science and Technology (SUST)
+
+---
+
+## 📬 Connect
+
+- [LinkedIn Profile](https://www.linkedin.com/in/anima-das-automation)
+- [Email Anima Das](mailto:fivver033@gmail.com)
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anima-das-automation)
-[![Portfolio](https://img.shields.io/badge/Explore_Portfolio-17233D?style=for-the-badge&logo=googlechrome&logoColor=69E3F1)](https://anima-das-website.vercel.app)
-[![Email](https://img.shields.io/badge/Send_Email-1C2741?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:anima.das2k0@gmail.com)
-
-<sub>ANIMA DAS · AI AUTOMATION ENGINEER & SYSTEMS ARCHITECT</sub>
-
-<img src="./hero-isometric.svg" width="100%" alt="" />
-
+<sub>Anima Das &nbsp;·&nbsp; AI Automation Engineer & Systems Architect</sub>
 </div>
+
+
