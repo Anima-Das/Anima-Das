@@ -25,48 +25,57 @@
 
 <br/>
 
-<img align="right" src="coding-girl.png" alt="Coding from home" width="250" />
+<table>
+<tr>
+<td valign="top" width="68%">
 
 ## 👋 Hi, I'm Anima
 
 I turn repetitive manual work into **reliable, AI-powered business systems**. Since 2022 I have delivered **100+ automation workflows** for multiple clients using **n8n, Make.com and Zapier**, connecting CRMs, email, messaging and APIs, with **data validation, duplicate prevention and human approval** built in.
 
-- 🤖 Building AI lead research, outreach and customer-support systems
-- 🛡️ Designing workflows that **validate before they act** and **recover when they fail**
-- 👥 Placing a **human approval gate** wherever a decision carries risk
+- 🤖 AI lead research, outreach and customer-support systems
+- 🛡️ Workflows that **validate before they act** and **recover when they fail**
+- 👥 A **human approval gate** wherever a decision carries risk
 - 📨 Clients report time savings and less repetitive manual work
 
-<br clear="right"/>
+</td>
+<td align="center" valign="middle" width="32%">
+
+<img src="automation-girl.gif" alt="Automation" width="250" />
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-  <img src="metrics.png" alt="100+ workflows, 66-node pipelines, 16 lead states, 54 legal transitions" width="100%" />
+  <img src="metrics.png" alt="100+ workflows · 3 platforms · Human-in-the-loop · Audit-ready" width="100%" />
 </div>
 
 ---
 
-## 🧾 whoami
+## 🪪 Quick Facts
 
-```jsonc
-// anima-das.json
-{
-  "name": "Anima Das",
-  "role": "AI Automation Engineer & Systems Architect",
-  "location": { "city": "Sylhet", "country": "Bangladesh", "remote": true },
-  "since": 2022,
-  "delivered": "100+ automation workflows",
-  "platforms": ["n8n", "Make.com", "Zapier"],
-  "ai": ["OpenAI GPT-4", "Google Gemini", "Ollama (local LLMs)", "VEO 3"],
-  "principles": [
-    "validate before action",
-    "human review for consequential decisions",
-    "explicit, recoverable failure paths",
-    "preserve state, prevent duplicate actions",
-    "keep credentials out of exports"
-  ],
-  "education": "B.Sc. CSE, Shahjalal University of Science and Technology (SUST)",
-  "openTo": ["Full-time remote roles"]
-}
-```
+| | |
+| :--- | :--- |
+| **Role** | AI Automation Engineer & Systems Architect |
+| **Experience** | Independent remote consultant since 2022 |
+| **Delivered** | 100+ automation workflows for multiple clients |
+| **Platforms** | n8n · Make.com · Zapier |
+| **AI** | OpenAI GPT-4 · Google Gemini · Ollama (local LLMs) · VEO 3 |
+| **Education** | B.Sc. in Computer Science & Engineering, SUST |
+| **Looking for** | Full-time remote roles |
+
+---
+
+## 🎯 What I Automate
+
+| | Area | What it covers |
+| :-: | :--- | :--- |
+| 📈 | **B2B lead research & outreach** | Multi-source company research, email verification, evidence-based drafts, controlled follow-up |
+| 🎧 | **Customer support & voice agents** | Intent routing, FAQ, order status, booking, ticketing and human escalation |
+| 🛡️ | **Brand & social-media defense** | Signed webhook intake, policy-based actions, kill switch, human review tasks |
+| 🎬 | **Generative video pipelines** | VEO 3 prompt engineering and auto-publishing to TikTok, Instagram and YouTube |
+| 🏢 | **CRM & operations** | HubSpot, GoHighLevel, Google Sheets, Gmail, Telegram, calendars |
 
 ---
 
@@ -163,13 +172,6 @@ I turn repetitive manual work into **reliable, AI-powered business systems**. Si
 | [**Generative AI Video Production & Publishing Pipeline**](https://github.com/Anima-Das/generative-ai-video-production-publishing-pipeline) | `n8n` `VEO 3` | Cinematic short-form video generation and automated publishing to TikTok, Instagram and YouTube. |
 | [**Smart AI Customer Support & Lead Generation**](https://github.com/Anima-Das/smart-ai-customer-support-lead-generation-human-handoff) | `n8n` `OpenAI` `Messenger` | Facebook Messenger support and lead-gen bot with intent routing, persistent customer profiles and human handoff. |
 
-<div align="center">
-
-[![Anima-Das/autonomous-outreach-intelligence-campaign-orchestrator](https://github-readme-stats.vercel.app/api/pin/?username=Anima-Das&repo=autonomous-outreach-intelligence-campaign-orchestrator&theme=radical&border_radius=10)](https://github.com/Anima-Das/autonomous-outreach-intelligence-campaign-orchestrator)
-[![Anima-Das/B2B-Lead-Research-Cold-Outreach-Automation](https://github-readme-stats.vercel.app/api/pin/?username=Anima-Das&repo=B2B-Lead-Research-Cold-Outreach-Automation&theme=radical&border_radius=10)](https://github.com/Anima-Das/B2B-Lead-Research-Cold-Outreach-Automation)
-
-</div>
-
 ---
 
 ## 🔄 How My Automations Flow
@@ -183,17 +185,6 @@ flowchart LR
     E --> F[(🗂️ Audit Log<br/>PostgreSQL)]
     B -. invalid .-> X[⚠️ Error Path]
     E -. uncertain .-> R[🔁 Reconcile, never blind resend]
-```
-
----
-
-## 🔭 Currently
-
-```text
-> focus      Advanced n8n workflows with multi-branch logic and persistent state
-> building   Autonomous AI agents with human approval checkpoints
-> improving  Reliability: validation, error handling, retries, audit logging
-> status     Open to full-time remote roles
 ```
 
 ---
@@ -224,23 +215,16 @@ flowchart LR
 
 ---
 
-## 📊 GitHub Stats
+---
 
-<div align="center">
+## 🔭 Currently
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Anima-Das&show_icons=true&theme=radical&hide_border=false&border_radius=10&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anima-Das&layout=compact&theme=radical&border_radius=10&langs_count=8" alt="Top languages" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anima-Das&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anima-Das&theme=radical&hide_border=false&border_radius=10" alt="Contribution streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anima-Das&theme=react-dark&hide_border=true&area=true&color=ea4b71&line=ea4b71&point=ffffff" alt="Contribution graph" width="100%" />
-
-<sub>Top languages reflect public repositories only, not skill level. Most of my work is n8n workflow JSON.</sub>
-
-</div>
-
+```text
+> focus      Advanced n8n workflows with multi-branch logic and persistent state
+> building   Autonomous AI agents with human approval checkpoints
+> improving  Reliability: validation, error handling, retries, audit logging
+> status     Open to full-time remote roles
+```
 
 ---
 
@@ -261,9 +245,5 @@ I'm open to **full-time remote roles** where automation is treated as engineerin
 <br/>
 
 <samp><b>Automation that validates before it acts, and recovers when it fails.</b></samp>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ea4b71,50:4c1d95,100:0f172a&height=120&section=footer" alt="" width="100%" />
 
 </div>
