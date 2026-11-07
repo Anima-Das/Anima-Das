@@ -1,0 +1,30 @@
+FLAT FILE MAP — original path -> uploaded filename
+
+Anima-Das/.github/workflows/profile-3d.yml -> workflow__profile-3d.yml
+Anima-Das/.github/workflows/profile-stats.yml -> workflow__profile-stats.yml
+Anima-Das/.github/workflows/validate.yml -> workflow__validate.yml
+Anima-Das/README.md -> README.md
+Anima-Das/assets/cards/also-messenger-bot.svg -> assets__cards__also-messenger-bot.svg
+Anima-Das/assets/cards/also-video-pipeline.svg -> assets__cards__also-video-pipeline.svg
+Anima-Das/assets/cards/b2b-lead-research.svg -> assets__cards__b2b-lead-research.svg
+Anima-Das/assets/cards/outreach-orchestrator.svg -> assets__cards__outreach-orchestrator.svg
+Anima-Das/assets/cards/reputation-defense.svg -> assets__cards__reputation-defense.svg
+Anima-Das/assets/cards/voice-support-agent.svg -> assets__cards__voice-support-agent.svg
+Anima-Das/assets/divider.svg -> assets__divider.svg
+Anima-Das/assets/footer.svg -> assets__footer.svg
+Anima-Das/assets/generated/stats.svg -> assets__generated__stats.svg
+Anima-Das/assets/hero.svg -> assets__hero.svg
+Anima-Das/assets/links/email.svg -> assets__links__email.svg
+Anima-Das/assets/links/linkedin.svg -> assets__links__linkedin.svg
+Anima-Das/assets/links/status.svg -> assets__links__status.svg
+Anima-Das/assets/links/website.svg -> assets__links__website.svg
+Anima-Das/assets/pipeline.svg -> assets__pipeline.svg
+Anima-Das/assets/stack.svg -> assets__stack.svg
+Anima-Das/design-source/build_assets.py -> design_source__build_assets.py
+Anima-Das/design-source/hero.py -> design_source__hero.py
+Anima-Das/design-source/lib.py -> design_source__lib.py
+Anima-Das/design-source/parts.py -> design_source__parts.py
+Anima-Das/profile-3d-contrib/profile-green-animate.svg -> profile-3d-contrib__profile-green-animate.svg
+Anima-Das/profile-3d-contrib/profile-night-view.svg -> profile-3d-contrib__profile-night-view.svg
+Anima-Das/scripts/generate_stats.py -> scripts__generate_stats.py
+Anima-Das/scripts/validate.py -> scripts__validate.py

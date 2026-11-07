@@ -1,0 +1,29 @@
+ANIMA DAS — FLAT UPLOAD PACKAGE
+
+WHAT IS IN THIS ZIP
+- Every file is at the ZIP root. There are no folders inside this archive.
+- README.md is the profile README.
+- Files beginning assets__ and profile-3d-contrib__ are the images referenced by README.
+- scripts__*.py and design-source__*.py are source/maintenance files.
+- workflow__*.yml are GitHub Actions templates. They are NOT active while they remain in the repository root.
+
+UPLOAD THE PROFILE
+1. Extract this ZIP.
+2. Open the extracted folder and press Ctrl+A.
+3. Open https://github.com/Anima-Das/Anima-Das
+4. Choose Add file -> Upload files.
+5. Drag all selected files into the upload area and commit.
+6. README.md will replace the old README; the images will be available at the root paths used by README.
+
+IMPORTANT ABOUT GITHUB ACTIONS
+GitHub only discovers Actions workflow files inside .github/workflows/. This flat pack keeps them at the root so all files can be selected together. They will not run until each workflow template is copied into its required path. To enable later, use GitHub -> Add file -> Create new file and enter each path exactly:
+  .github/workflows/profile-3d.yml
+  .github/workflows/profile-stats.yml
+  .github/workflows/validate.yml
+Then paste the content from the matching workflow__*.yml template. The scripts are already adapted to the flat root filenames.
+
+ABOUT PLACEHOLDERS
+The 3D contribution calendar and stats card begin as placeholders. They are replaced by live GitHub data only after the corresponding Actions workflows have been installed and successfully run. Do not treat the placeholder dashes as real statistics.
+
+QUALITY CHECKS
+The original package passed its own README-reference/SVG/workflow/Python validation. This flat version has also had its local README references rewritten and will be revalidated after packaging.
