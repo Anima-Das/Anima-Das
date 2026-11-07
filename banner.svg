@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280" role="img" aria-label="Anima Das - AI Automation Engineer and Systems Architect">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="0.5" stop-color="#4c1d95"/>
+      <stop offset="1" stop-color="#ea4b71"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#fde2ea"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="280" fill="url(#bg)"/>
+  <g opacity="0.12" stroke="#fff" stroke-width="1">
+    <path d="M0 60H1000M0 120H1000M0 180H1000M0 240H1000"/>
+    <path d="M100 0V280M300 0V280M500 0V280M700 0V280M900 0V280"/>
+  </g>
+  <g fill="#fff">
+    <circle cx="90" cy="70" r="4" opacity="0.7"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="250" cy="45" r="3" opacity="0.5"><animate attributeName="opacity" values="0.9;0.2;0.9" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="880" cy="60" r="4" opacity="0.6"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="760" cy="40" r="3" opacity="0.5"><animate attributeName="opacity" values="0.9;0.2;0.9" dur="2.5s" repeatCount="indefinite"/></circle>
+  </g>
+  <!-- node-flow motif (n8n style) -->
+  <g stroke="#ffffff" stroke-opacity="0.35" stroke-width="2" fill="none">
+    <path d="M60 200 C 90 200, 90 110, 120 110"/>
+    <path d="M880 110 C 910 110, 910 200, 940 200"/>
+  </g>
+  <g fill="#ffffff" fill-opacity="0.85">
+    <rect x="40" y="188" width="28" height="24" rx="6"/>
+    <rect x="108" y="98" width="28" height="24" rx="6"/>
+    <rect x="872" y="98" width="28" height="24" rx="6"/>
+    <rect x="932" y="188" width="28" height="24" rx="6"/>
+  </g>
+  <text x="500" y="125" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="68" font-weight="700" fill="url(#txt)" letter-spacing="2">Anima Das</text>
+  <text x="500" y="168" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#ffffff">AI Automation Engineer · Systems Architect · n8n Specialist</text>
+  <text x="500" y="200" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="14" fill="#ffffff" fill-opacity="0.8">validate before action  ·  human-in-the-loop  ·  recoverable by design</text>
+  <!-- waves -->
+  <path d="M0 232 C 150 205, 300 258, 500 232 S 850 205, 1000 232 V280 H0Z" fill="#ffffff" fill-opacity="0.18">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite" values="M0 232 C 150 205, 300 258, 500 232 S 850 205, 1000 232 V280 H0Z;M0 238 C 150 258, 300 208, 500 238 S 850 258, 1000 232 V280 H0Z;M0 232 C 150 205, 300 258, 500 232 S 850 205, 1000 232 V280 H0Z"/>
+  </path>
+  <path d="M0 250 C 200 228, 380 275, 580 250 S 860 232, 1000 252 V280 H0Z" fill="#ffffff" fill-opacity="0.3">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite" values="M0 250 C 200 228, 380 275, 580 250 S 860 232, 1000 252 V280 H0Z;M0 254 C 200 275, 380 232, 580 254 S 860 275, 1000 250 V280 H0Z;M0 250 C 200 228, 380 275, 580 250 S 860 232, 1000 252 V280 H0Z"/>
+  </path>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 130" width="1000" height="130" role="img" aria-label="Key numbers">
+  <style>
+    .n{font:800 38px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#fff}
+    .l{font:600 13px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#cbd5e1}
+    .c{fill:#111827;stroke:#ea4b71;stroke-width:1.5}
+    .p{animation:up 4s ease-in-out infinite}
+    @keyframes up{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+  </style>
+  <g class="p"><rect class="c" x="5" y="10" width="230" height="110" rx="14"/><text class="n" x="120" y="62" text-anchor="middle">100+</text><text class="l" x="120" y="92" text-anchor="middle">Automation workflows delivered</text></g>
+  <g class="p" style="animation-delay:.4s"><rect class="c" x="265" y="10" width="230" height="110" rx="14"/><text class="n" x="380" y="62" text-anchor="middle">66</text><text class="l" x="380" y="92" text-anchor="middle">Nodes in the largest n8n pipeline</text></g>
+  <g class="p" style="animation-delay:.8s"><rect class="c" x="505" y="10" width="230" height="110" rx="14"/><text class="n" x="620" y="62" text-anchor="middle">16 / 54</text><text class="l" x="620" y="92" text-anchor="middle">Lead states / legal transitions</text></g>
+  <g class="p" style="animation-delay:1.2s"><rect class="c" x="765" y="10" width="230" height="110" rx="14"/><text class="n" x="880" y="62" text-anchor="middle">2022</text><text class="l" x="880" y="92" text-anchor="middle">Independent consultant since</text></g>
+</svg>
