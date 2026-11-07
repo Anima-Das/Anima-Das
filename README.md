@@ -17,7 +17,7 @@
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-anima--das--website.vercel.app-EA4B71?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anima-das-website.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anima-das-automation)
 [![Email](https://img.shields.io/badge/EMAIL-SAY%20HELLO-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anima.das2k0@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Anima-Das&style=for-the-badge&color=EA4B71&label=PROFILE+VIEWS)](https://github.com/Anima-Das)
+
 
 <samp>📍 Sylhet, Bangladesh &nbsp;·&nbsp; 🌍 Open to Remote &nbsp;·&nbsp; 💼 Actively seeking a full-time role</samp>
 
