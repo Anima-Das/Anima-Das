@@ -41,14 +41,11 @@ I turn repetitive manual work into **reliable, AI-powered business systems**. Si
 </td>
 <td align="center" valign="middle" width="32%">
 
+<img src="automation-girl.gif" alt="Anima Das, Automation Engineer" width="270" />
 
 </td>
 </tr>
 </table>
-
-<div align="center">
- 
-</div>
 
 ---
 
@@ -213,6 +210,26 @@ flowchart LR
 🎓 **B.Sc. in Computer Science & Engineering** · Shahjalal University of Science and Technology (SUST) · 2005 – 2009
 
 ---
+
+## 📊 GitHub Snapshot
+
+<div align="center">
+
+[![Followers](https://img.shields.io/github/followers/Anima-Das?style=for-the-badge&logo=github&color=EA4B71&labelColor=0D1117)](https://github.com/Anima-Das?tab=followers)
+[![Last commit](https://img.shields.io/github/last-commit/Anima-Das/autonomous-outreach-intelligence-campaign-orchestrator?style=for-the-badge&color=8B5CF6&labelColor=0D1117)](https://github.com/Anima-Das/autonomous-outreach-intelligence-campaign-orchestrator)
+[![Stars](https://img.shields.io/github/stars/Anima-Das/B2B-Lead-Research-Cold-Outreach-Automation?style=for-the-badge&logo=github&color=FFD166&labelColor=0D1117)](https://github.com/Anima-Das/B2B-Lead-Research-Cold-Outreach-Automation)
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Anima-Das&theme=dark&hide_border=false&border_radius=12&background=0D1117&stroke=30363D&ring=EA4B71&fire=EA4B71&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EA4B71&sideLabels=CBD5E1&dates=8B949E" alt="GitHub contribution streak" />
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/EA4B71/Anima-Das" alt="Anima-Das contribution calendar" width="95%" />
+
+<sub>Live cards load from public services and fill in as my contribution history grows.</sub>
+
+</div>
 
 ---
 
