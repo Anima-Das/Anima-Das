@@ -41,14 +41,13 @@ I turn repetitive manual work into **reliable, AI-powered business systems**. Si
 </td>
 <td align="center" valign="middle" width="32%">
 
-<img src="automation-girl.gif" alt="Automation" width="250" />
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-  <img src="metrics.png" alt="100+ workflows · 3 platforms · Human-in-the-loop · Audit-ready" width="100%" />
+ 
 </div>
 
 ---
